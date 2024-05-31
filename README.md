@@ -1,2 +1,3 @@
 # Bloom
-Bloom is a LED Display Driver written in C++
+Bloom is an LED Display Driver written in C++ specifically meant for oddly shaped displays.
+
